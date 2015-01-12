@@ -20,3 +20,5 @@ encapsulation, and exception-testing provided by the program allow me to work pr
 both with the grammar and vocab side of this. So I'd like to spruce up this project and make 
 a website that allows students (like my students!) to test their grammar. 
 
+Educational Background: Undergraduate in English from Macalester College, St. Paul, MN; 
+Masters degree in English from University of Minnesota
